@@ -1,32 +1,32 @@
 <h1 align="center">🚀 Welcome, I'm MiHaTsKiYi! 👋</h1>
 
 <p align="center">
-  💻 Dev | 🚀 Performance Optimizer | 🎨 UI/UX Enthusiast  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&width=800&lines=🚀+System+Optimization+Expert;💡+Automation+%26+Scripting+Lover;🔥+Building+Fast+%26+Efficient+Tools" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&width=800&lines=System+Optimization+Expert;Automation+%26+Scripting+Lover;Building+Fast+%26+Efficient+Tools" />
 </p>
 
 ---
 
-## 🔥 About Me  
+## 🚀 About Me  
 - 👨‍💻 Passionate about **PC optimization, scripting, and performance tuning**  
 - 💡 Working with **Python, HTML, CSS, JavaScript**  
-- 🛠 Using **VCS, ZSH, and Hyprland** for a seamless development experience  
+- 🛠 Using **VCS, ZSH, and Hyprland** for a seamless dev experience  
 - 🎯 Always looking for new ways to **boost system performance**  
 
 ---
 
-## 🚀 My Projects  
+## 🌟 My Projects  
+### 🚀 Featured  
 🔹 **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)** — Advanced task manager for optimizing system processes.  
 🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — High-performance PC optimization tool with deep tweaks.  
 
-🌟 I'm constantly improving and adding new features! Contributions and suggestions are welcome.  
+### 📂 Other Cool Repos  
+🔸 [Optimization PC Scripts](https://github.com/MiHaTsKiYi13/Optimization-PC)  
+🔸 [PowerShell Tweaks](https://github.com/MiHaTsKiYi13/PowerShell-Tweaks)  
 
 ---
 
-## ⚡ Tech Stack  
+## 🔥 Tech Stack  
 ### 💻 Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js" />
@@ -49,7 +49,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiHaTsKiYi13&theme=radical" width="49%">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiHaTsKiYi13&layout=compact&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiHaTsKiYi13&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiHaTsKiYi13&theme=radical">
+</p>
+
+---
+
+## 🎉 Fun Stuff  
+✨ **Random Dev Meme**  
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="500px"/>
+</p>
+
+🔥 **Random Programming Quote**  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
