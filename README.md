@@ -20,10 +20,6 @@
 🔹 **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)** — Advanced task manager for optimizing system processes.  
 🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — High-performance PC optimization tool with deep tweaks.  
 
-### 📂 Other Cool Repos  
-🔸 [Optimization PC Scripts](https://github.com/MiHaTsKiYi13/Optimization-PC)  
-🔸 [PowerShell Tweaks](https://github.com/MiHaTsKiYi13/PowerShell-Tweaks)  
-
 ---
 
 ## 🔥 Tech Stack  
