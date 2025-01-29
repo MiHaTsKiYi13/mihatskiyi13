@@ -9,7 +9,7 @@
 
 ## 🚀 About Me  
 - 👨‍💻 Passionate about **PC optimization, scripting, and performance tuning**  
-- 💡 Working with **Python, HTML, CSS, JavaScript**  
+- 💡 Working with **Python, HTML, CSS, JavaScript, Batch**  
 - 🛠 Using **VCS, ZSH, and Hyprland** for a seamless dev experience  
 - 🎯 Always looking for new ways to **boost system performance**  
 
@@ -30,6 +30,7 @@
 ### 💻 Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white">
 </p>
 
 ### 🛠 Tools & Environment  
