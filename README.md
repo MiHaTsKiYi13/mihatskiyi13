@@ -1,34 +1,28 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner.png" alt="MiHaTsKiYi Banner" width="100%">
-</p>
-
-<h1 align="center">🚀 Welcome to My GitHub, I'm MiHaTsKiYi! 👋</h1>
+<h1 align="center">🚀 Welcome, I'm MiHaTsKiYi! 👋</h1>
 
 <p align="center">
-  💻 Dev | 🚀 Optimization Enthusiast | 🎨 UI/UX Explorer  
+  💻 Dev | 🚀 Performance Optimizer | 🎨 UI/UX Enthusiast  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&width=800&lines=🚀+Performance+Optimization+Expert;💡+Automation+%26+System+Tweaks+Lover;🔥+Building+Efficient+%26+Fast+Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&width=800&lines=🚀+System+Optimization+Expert;💡+Automation+%26+Scripting+Lover;🔥+Building+Fast+%26+Efficient+Tools" />
 </p>
 
 ---
 
 ## 🔥 About Me  
-👨‍💻 I’m a **developer** who loves **PC optimization**, **scripting**, and **performance tuning**.  
-💡 I specialize in **Python, HTML, CSS, JavaScript** and use **VCS, ZSH, and Hyprland**.  
-🎯 My goal is to create **high-performance tools** that boost workflow efficiency and system control.  
-
-💀 **Fun Fact:** *I don't just optimize PCs... I optimize everything!*  
+- 👨‍💻 Passionate about **PC optimization, scripting, and performance tuning**  
+- 💡 Working with **Python, HTML, CSS, JavaScript**  
+- 🛠 Using **VCS, ZSH, and Hyprland** for a seamless development experience  
+- 🎯 Always looking for new ways to **boost system performance**  
 
 ---
 
-## 🚀 My Projects  
-🔹 **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)** — Advanced task manager for controlling and optimizing system processes.  
-🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — Powerful PC optimization tool with deep system tweaks.  
+## 🚀 Projects I'm Working On  
+🔹 **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)** — Advanced task manager for optimizing system processes.  
+🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — High-performance PC optimization tool with deep tweaks.  
 
-🌟 I’m always improving and adding new features! Feel free to **contribute** or **suggest** ideas.  
+🌟 I'm constantly improving and adding new features! Contributions and suggestions are welcome.  
 
 ---
 
@@ -70,4 +64,4 @@
   </a>
 </p>
 
-🚀 If you have ideas, suggestions, or just want to chat, feel free to reach out! 😎  
+🚀 Feel free to reach out for collaborations, ideas, or just to chat! 😎  
