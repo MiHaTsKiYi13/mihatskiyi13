@@ -1,3 +1,5 @@
+![MiHaTsKiYi Banner](banner.png)
+
 Welcome to my GitHub profile! I'm a passionate developer focused on building tools that optimize and enhance the user and developer experience. I specialize in **Python**, **HTML**, **CSS**, and **JavaScript**, and I'm always exploring new ways to push the limits of what's possible in software development.
 
 ## 🚀 Current Projects
