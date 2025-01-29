@@ -43,11 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiHaTsKiYi13&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiHaTsKiYi13&theme=radical" width="49%">
-</p>
+## 🎯 Language & Repo Stats  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiHaTsKiYi13&theme=radical">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiHaTsKiYi13&theme=radical">
@@ -55,13 +51,7 @@
 
 ---
 
-## 🎉 Fun Stuff  
-✨ **Random Dev Meme**  
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="500px"/>
-</p>
-
-🔥 **Random Programming Quote**  
+## 🔥 Random Programming Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
