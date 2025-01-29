@@ -18,7 +18,7 @@
 ## 🌟 My Projects  
 ### 🚀 Featured  
 🔹 **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)** — Advanced task manager for optimizing system processes.  
-🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — High-performance PC optimization tool with deep tweaks.  
+🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — My Web-Site
 
 ---
 
