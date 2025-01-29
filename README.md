@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Projects I'm Working On  
+## 🚀 My Projects  
 🔹 **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)** — Advanced task manager for optimizing system processes.  
 🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — High-performance PC optimization tool with deep tweaks.  
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiHaTsKiYi13&show_icons=true&theme=radical" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiHaTsKiYi13&theme=radical" width="49%">
