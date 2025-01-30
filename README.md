@@ -18,7 +18,8 @@
 ## 🌟 My Projects  
 ### 🚀 Featured  
 🔹 **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)** — Advanced task manager for optimizing system processes.  
-🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — My Web-Site
+🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — My Web-Site  
+🔹 **[NotePad](https://github.com/MiHaTsKiYi13/NotePad--)** — A sleek, feature-rich text editor built with PyQt6, supporting auto-saving, a modern UI, and more.
 
 ---
 
