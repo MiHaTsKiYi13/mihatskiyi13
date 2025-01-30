@@ -1,35 +1,44 @@
-<h1 align="center">🚀 Welcome, I'm MiHaTsKiYi! 👋</h1>
+<h1 align="center">🚀 Welcome to My GitHub, I'm MiHaTsKiYi! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&width=800&lines=System+Optimization+Expert;Automation+%26+Scripting+Lover;Building+Fast+%26+Efficient+Tools" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 👨‍💻 Passionate about **PC optimization, scripting, and performance tuning**  
-- 💡 Working with **Python, HTML, CSS, JavaScript**  
-- 🛠 Using **VCS, ZSH, and Hyprland** for a seamless dev experience  
-- 🎯 Always looking for new ways to **boost system performance**  
+## 🚀 About Me
+👨‍💻 **Passionate Developer** with a love for **PC optimization, scripting, and performance tuning**  
+💡 **Skilled in Python, HTML, CSS, and JavaScript**  
+🛠 **Tools & Setup:**  
+  - **VCS**: Git & GitHub  
+  - **Shell**: ZSH  
+  - **Environment**: Hyprland  
+🎯 **Goal**: Boosting system performance and building fast, efficient tools
 
 ---
 
 ## 🌟 My Projects  
-### 🚀 Featured  
-🔹 **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)** — Advanced task manager for optimizing system processes.  
-🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — My Web-Site  
-🔹 **[NotePad--](https://github.com/MiHaTsKiYi13/NotePad--)** — A sleek, feature-rich text editor built with PyQt6, supporting auto-saving, a modern UI, and more.
+### 🚀 Featured Projects
+
+- **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)**  
+  An advanced task manager for optimizing system processes.
+
+- **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)**  
+  My personal website showcasing my work and projects.
+
+- **[NotePad--](https://github.com/MiHaTsKiYi13/NotePad--)**  
+  A sleek, feature-rich text editor built with PyQt6, supporting auto-saving, a modern UI, and more.
 
 ---
 
-## 🔥 Tech Stack  
-### 💻 Languages  
+## 💻 Tech Stack  
+### Languages & Frameworks  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
-### 🛠 Tools & Environment  
+### Tools & Environment  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
   <br>
@@ -40,7 +49,7 @@
 
 ---
 
-## 🎯 Language & Repo Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiHaTsKiYi13&theme=radical">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiHaTsKiYi13&theme=radical">
@@ -65,4 +74,4 @@
   </a>
 </p>
 
-🚀 Feel free to reach out for collaborations, ideas, or just to chat! 😎  
+🚀 **Feel free to reach out for collaborations, ideas, or just to chat!** 😎
