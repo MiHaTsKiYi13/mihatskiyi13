@@ -2,43 +2,41 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&width=800&lines=System+Optimization+Expert;Automation+%26+Scripting+Lover;Building+Fast+%26+Efficient+Tools" />
 </p>
 
 ---
 
-## 🚀 About Me
-👨‍💻 **Passionate Developer** with a love for **PC optimization, scripting, and performance tuning**  
-💡 **Skilled in Python, HTML, CSS, and JavaScript**  
-🛠 **Tools & Setup:**  
-  - **VCS**: Git & GitHub  
-  - **Shell**: ZSH  
-  - **Environment**: Hyprland  
-🎯 **Goal**: Boosting system performance and building fast, efficient tools
+## 🚀 About Me  
+👨‍💻 **Passionate Developer** with expertise in **PC optimization, automation, and performance tuning**  
+💡 **Tech Stack:** Python, HTML, CSS, JavaScript  
+🛠 **My Setup:**  
+  - **VCS:** Git & GitHub  
+  - **Shell:** ZSH  
+  - **Environment:** Hyprland  
+🎯 **Mission:** Enhancing system performance and building high-speed, efficient tools  
 
 ---
 
-## 🌟 My Projects  
-### 🚀 Featured Projects
+## 🌟 Featured Projects  
+### 🚀 Top Repositories  
 
-- **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)**  
-  An advanced task manager for optimizing system processes.
+- 🔹 **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)** — Advanced task manager for optimizing system processes.  
+- 🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — My personal website showcasing my projects.  
+- 🔹 **[NotePad--](https://github.com/MiHaTsKiYi13/NotePad--)** — Feature-rich text editor with PyQt6, auto-save, and modern UI.  
 
-- **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)**  
-  My personal website showcasing my work and projects.
-
-- **[NotePad--](https://github.com/MiHaTsKiYi13/NotePad--)**  
-  A sleek, feature-rich text editor built with PyQt6, supporting auto-saving, a modern UI, and more.
+🔗 Explore more on my [GitHub profile](https://github.com/MiHaTsKiYi13)  
 
 ---
 
 ## 💻 Tech Stack  
-### Languages & Frameworks  
+### ⚡ Languages & Frameworks  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
-### Tools & Environment  
+### 🛠 Tools & Environment  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
   <br>
@@ -64,7 +62,7 @@
 
 ---
 
-## 🌍 Let's Connect  
+## 🌍 Connect with Me  
 <p align="center">
   <a href="https://t.me/mihatskiyi">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
