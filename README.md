@@ -26,7 +26,7 @@
 ### 🚀 Top Repositories  
 
 🔹 **[TaskMGR](https://github.com/MiHaTsKiYi13/TaskMGR)** — Advanced task manager for optimizing system processes.  
-🔹 **[de3nake.mihatskiyi13](https://github.com/MiHaTsKiYi13/de3nake.mihatskiyi13)** — My personal website showcasing my projects.  
+🔹 **[MiHa Browser](https://github.com/MiHaTsKiYi13/MiHa-Browser)** — My personal browser.
 🔹 **[NotePad--](https://github.com/MiHaTsKiYi13/NotePad--)** — Feature-rich text editor with PyQt6, auto-save, and modern UI.  
 
 🔗 **Explore more on my [GitHub profile](https://github.com/MiHaTsKiYi13)**
